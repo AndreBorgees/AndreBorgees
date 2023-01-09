@@ -7,6 +7,7 @@
 ##
 <div>
   <img align="rigth" alt="andre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBorgees&theme=blue-green">
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBorgees&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div>
   
 ##  
