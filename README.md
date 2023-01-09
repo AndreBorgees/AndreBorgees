@@ -5,11 +5,9 @@
 - 🛠️ Future software engineer
   
 ##
-<div>
-  <img align="rigth" alt="andre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBorgees&theme=blue-green">
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBorgees&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<div>
-  
+
+ [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBorgees&layout=compact&theme=dark)](https://github.com/AndreBorgees/github-readme-stats) 
+
 ##  
 <div style="display: inline_block"><br>  
   <img align="rigth" alt="Andre-.NET" height="30" width"=40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
